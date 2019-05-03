@@ -1,5 +1,4 @@
-# oficinatraducaoabralin
-Oficina de Tradução apresentada na ABRALIN - Tradução automática neural: das características às limitações de uso
+# Oficina de Tradução apresentada na ABRALIN - Tradução automática neural: das características às limitações de uso
 
 ABRALIN - 02/05/2019 a 03/05/2019
 https://abralin.org/abralin50/inicio/
